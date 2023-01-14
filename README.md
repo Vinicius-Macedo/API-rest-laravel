@@ -9,11 +9,16 @@ Este é um projeto de API REST desenvolvido em Laravel, destinado a gerenciar al
 
 ## Instalação
 1. Faça o clone do repositório para sua máquina local
+
 ```git clone https://github.com/SEUUSERNAME/seuprojeto.git```
+
 2. Acesse o diretório do projeto e instale as dependências
+
 ```cd seuprojeto; composer install```
+
 3. Copie o arquivo .env.example para .env e configure as informações de banco de dados
 4. Execute as migrações para criar as tabelas no banco de dados
+
 ```php artisan migrate```
 
 ## Uso

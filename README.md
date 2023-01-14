@@ -31,7 +31,7 @@ A API possui rotas para gerenciamento de alunos, incluindo:
 - Exclusão de alunos (DELETE /api/alunos/{id})
 
 ## Documentação da API
-A documentação da API pode ser acessada a partir da rota /api/documentation.
+Em desenvolvimento...
 
 ## Contribuições
 Este é um projeto open-source e contribuições são sempre bem-vindas.

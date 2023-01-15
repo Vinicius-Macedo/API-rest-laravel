@@ -10,7 +10,7 @@ Este é um projeto de API REST desenvolvido em Laravel, destinado a gerenciar al
 ## Instalação
 1. Faça o clone do repositório para sua máquina local
 
-```git clone https://github.com/Vinicius-Macedo/seuprojeto.git```
+```git clone https://github.com/Vinicius-Macedo/PI-rest-laravel.git```
 
 2. Acesse o diretório do projeto e instale as dependências
 

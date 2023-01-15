@@ -30,6 +30,8 @@ A API possui rotas para gerenciamento de alunos, incluindo:
 - Edição de informações de alunos (PUT /api/alunos/{id})
 - Exclusão de alunos (DELETE /api/alunos/{id})
 
+Você pode ter todas as rotas através do arquivo "Insomnia.json", executando com o software Insomia.
+
 ## Documentação da API
 Em desenvolvimento...
 

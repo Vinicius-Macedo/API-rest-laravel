@@ -1,6 +1,6 @@
 # API REST para Gerenciamento de Alunos
 
-Este é um projeto de API REST desenvolvido em Laravel, destinado a gerenciar alunos de uma escola. Ele permite que você cadastre, edite, visualize e exclua informações de alunos.
+Este é um projeto de API REST desenvolvido em Laravel, destinado a gerenciar alunos de uma escola. Ele permite que você cadastre, edite, visualize e exclua informações de alunos. É a minha primeira API Rest com o intuito de demonstrar meus conhecimentos no assunto,
 
 ## Requisitos
 - PHP 7.4 ou superior
